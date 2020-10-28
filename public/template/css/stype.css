@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+div.related li.right {
+    float: right;
+    margin-right: 5px;
+}
+ label 
+{
+  display: inline-block;
+}
+
+
