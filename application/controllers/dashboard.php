@@ -13,6 +13,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             
           $data ['template'] ='template/index';
           $this->load->view('layout/index');
+          a
           
       }
      
