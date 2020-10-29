@@ -11,8 +11,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       public function index()
       {
             $data['template'] ='template/auth';
-            // $this->load->view('layout/auth',isset($data)?$data :null);
-            $this->load->view('common/auth');
+            $this->load->view('layout/auth',isset($data)?$data :null);
+         
           
           
       }
