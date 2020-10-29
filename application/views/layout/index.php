@@ -11,39 +11,23 @@
     <link href="public/templates/css/jquery-ui.min.css" rel="stylesheet">
     <link href="public/templates/css/jquery.datetimepicker.css" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-        <script src="https://kit.fontawesome.com/a076d05399.js"></script>
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-    
-
-
-
- </head>
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+     </head>
 <body>
-        
+ 
             <div class="col-10">
             <img src="../../../public/templates/images/logo.jpg" alt="hana1" >
                 <i class="fa fa-android"></i>
-                <p>test1</p>
-            
+               
             </div>
             <?php   $this->load->view('common/header',isset($data) ? $data :null); ?>
-       
     <section>
         <div class="container">
-            <div class="row">
-                 
-                
+            <div class="row">  
             </div>
-        
-        
         </div>    
-    
-    
     </section>
-    
-    
-    
-    
 </body>
 <script src="public/templates/js/jquery.js"></script>
 <script src="public/templates/js/jquery-ui.min.js"></script>

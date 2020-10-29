@@ -1,4 +1,3 @@
-
  <div class=" login-container col-md-4 offset-md-4"style="margin-top: 200px;background-color:lightblue" >
      <div class="form-group">
          <center  ><i class="fa fa-unlock"></i><h3 class="col-md-offset-2 "> Login</h3></center>
@@ -16,5 +15,4 @@
             <input type="submit" value="Login" class="btn btn-info btn-sm"  >
         </div>
 </form>
-
  </div>
