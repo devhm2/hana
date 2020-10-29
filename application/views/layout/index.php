@@ -23,7 +23,8 @@
             <div class="col-10">
             <img src="../../../public/templates/images/logo.jpg" alt="hana1" >
                 <i class="fa fa-android"></i>
-                <p>sadasd</p>
+                <p>hien hien</p>
+                <p>hien hien</p>
             
             </div>
             <?php   $this->load->view('common/header',isset($data) ? $data :null); ?>

@@ -12,6 +12,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       {
             $data['template'] ='template/auth';
             $this->load->view('layout/auth',isset($data)?$data :null);
+            $this->load->view('common/header.php');
           
           
       }
