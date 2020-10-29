@@ -25,6 +25,7 @@
                 <i class="fa fa-android"></i>
                 <p>hien hien</p>
                 <p>hien hien</p>
+				 <p>hien hien</p>
             
             </div>
             <?php   $this->load->view('common/header',isset($data) ? $data :null); ?>
